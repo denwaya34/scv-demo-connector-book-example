@@ -1,5 +1,3 @@
-
-===
 # [Service Cloud Voice demo connector](https://github.com/denwaya34/scv-demo-connector-book-example)
 
 The demo connector is a sample application for partner telephony systems that integrate with Salesforce Service Cloud Voice. It demonstrates an optimal Voice implementation based on a group of telephony API mocks. It also includes a voice call simulation tool that you can use to test call actions such as making and answering calls and using phone controls.
